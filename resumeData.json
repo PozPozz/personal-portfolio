@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Samuele Pozzini",
+    "occupation": "Junior Web Developer",
+    "description": "Constantly learning, took example from Life.I DEVOUR Web Developing",
+    "image": "profilepic.jpeg",
+    "bio": "Hello there! My name is Samuele Pozzini aka. Sam and I am a Junior Full-Stack Developer.By job is being a multitasking human being as I am the Founder and CEO of Qube-Site, a Start-Up with aim of revolutionize Web Development, I also work for a Start-Up Company named BookMe-Cab in which I built a Uber-Like app (just that it is 100x better), I am also a Freelancer and none the less I'M A STUDENT currently in Secondary High-School! My motto is:'Everything is Difficult, but Nothing is Impossible', and guys, If I managed to get to where I am today, you can do so as well.",
+    "contactmessage": "For any work-related puprpouse, get in touch with me, we'll have an amazing working collab. Or just passing by to say Hi.",
+    "email": "pozzinisamuele@gmail.com",
+    "phone": "+39 370 303 6422",
+    "address": {
+      "street": "Via Capraio, n°12",
+      "city": "Pedara(CT)",
+      "state": "Sicily",
+      "zip": "95030"
+    },
+    "website": "#",
+    "resumedownload": "cv_download.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/samuele.pozzini.3/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_pozpoz_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/PozPozz",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "I.T.I.S. G.Marconi - IT",
+        "degree": "Attending",
+        "graduated": "June 2022",
+        "description": "Developing a Web Master Course"
+      }
+    ],
+    "work": [
+      {
+        "company": "Qube-Site",
+        "title": "Founder and CEO",
+        "years": "October 2020 - Present",
+        "description": "Bringing to life what the REAL world of Web Dev is. Developing websites/ web apps of all kind. Managing and directing various Teams."
+      },
+      {
+        "company": "BookMe-Cab",
+        "title": "Founder, CEO and Junior Full-Stack Developer",
+        "years": "June 2018 - Present",
+        "description": "Managing all the technical aspects of the company. Developing and Managing the majority of Web API."
+      },
+      {
+        "company": "Freelancer",
+        "title": "My Own Boss",
+        "years": "July 2019 - Present",
+        "description": "I started adventuring in the Freelancing world for almoust an year, and I learned quite a bunch of Soft-Skills such as: Time Managing, Project Managing etc..."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web Development",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS3",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "C",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "25%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "BookMe Cab Driver App",
+        "category": "Travel",
+        "image": "driverapp.png",
+        "url": "https://apps.apple.com/it/app/bookme-cab-driver/id1532210795"
+      },
+      {
+        "title": "BookMe Cab Passenger App",
+        "category": "Travel",
+        "image": "passengerapp.png",
+        "url": "https://apps.apple.com/it/app/bookme-cab/id1532210658"
+      },
+      {
+        "title": "DGR & G Website",
+        "category": "Commercial Website",
+        "image": "dgrg.jpeg",
+        "url": "https://dgrg.it/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sam is surely enough excelling at his Job, within our entire Working Collab, he's never failed once...When they ask me something about the Web, that's the man I call.",
+        "user": "Davide Contrino"
+      },
+      {
+        "text": "Sam is a great Teacher! He explains the right stuff at the right time not even doing it on purpose! Definetly Recommend.",
+        "user": "Anonimous Student"
+      },
+      {
+        "text": "Sam fullfilled all of our requests. Really satisfied of the outcome. Definetly reccomend him.",
+        "user": "Alessandro Pozzini - DGR & G CEO"
+      }
+    ]
+  }
+}
