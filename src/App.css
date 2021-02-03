@@ -1,0 +1,19 @@
+.submit {
+  background-color: black;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #282623;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #06404E;
+  border-radius: 8px;
+}
