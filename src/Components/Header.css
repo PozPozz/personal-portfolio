@@ -1,0 +1,16 @@
+.particle--intro {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: transparent;
+    z-index: 3;
+    opacity: 0.67;
+}
+
+nav ul li a:hover {
+    color: rgb(32, 185, 185) !important;
+}
